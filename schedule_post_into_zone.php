@@ -5,7 +5,7 @@ Depends: Zone Manager (Zoninator)
 Description: Inserts scheduled posts into the Zoninator zones on publication
 Author: Vladimir Smotesko, Boyle Software
 Version: 0.1
-Author URI: http://smotesko.com
+Author URI: https://github.com/smotesko/schedule_zoninator
 
 Copyright 2013 Vladimir Smotesko, Boyle Software
 
